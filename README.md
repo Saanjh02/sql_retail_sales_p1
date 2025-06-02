@@ -201,7 +201,7 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 
 For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media.
 
-- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/sunita-jangid-7a)
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/sunita-jangid-7a238b216)
 - **Email**:    jangidsunita8008@gmail.com
 
 Thank you for your support, and I look forward to connecting with you!
